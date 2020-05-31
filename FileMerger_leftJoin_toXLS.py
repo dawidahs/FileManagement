@@ -1,6 +1,6 @@
 import pandas as pd
 
-#Open the 2 different files to merge in CSV
+#Open the 2 different files to merge in CSV 
 df1 = pd.read_csv("C:\\Users\\david\\Desktop\\SalReview_Summary_20200512.csv")
 df2 = pd.read_csv("C:\\Users\\david\\Desktop\\Sal_CrossCheck.csv")
 
